@@ -1,1 +1,3 @@
 file 2 in master branch
+
+More content 2
