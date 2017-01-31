@@ -1,5 +1,0 @@
-file 1 in master branch
-
-More content 1
-
-Stash
