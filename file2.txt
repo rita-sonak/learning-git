@@ -1,1 +1,1 @@
-Rita modified the content of this file
+Rita modified the content of this file to test the commit -a command
